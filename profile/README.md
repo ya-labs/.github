@@ -28,8 +28,12 @@ We believe the best way to grow is by building.
 
 ## Team
 
-- **Nícolas Machado Cardoso**  
-- **Caio Matheus Queiroz**
+### Owners
+- Nícolas Machado Cardoso
+- Caio Matheus Queiroz
+
+### Developers
+- Wagner Araujo Bastos
 
 ## Current Mission
 
