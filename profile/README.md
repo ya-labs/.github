@@ -28,11 +28,11 @@ We believe the best way to grow is by building.
 
 ## Team
 
-### Owners
+### Owners & Software Engineers
 - Nícolas Machado Cardoso
 - Caio Matheus Queiroz
 
-### Developers
+### Platform Engineer
 - Wagner Araujo Bastos
 
 ## Current Mission
