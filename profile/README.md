@@ -35,6 +35,9 @@ We believe the best way to grow is by building.
 ### Platform Engineer
 - Wagner Araujo Bastos
 
+### Software Engineer
+- Marco Antonio Gava
+
 ## Current Mission
 
 Creating useful, modern and well-built software while evolving as developers.
