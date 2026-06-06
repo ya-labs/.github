@@ -28,15 +28,10 @@ We believe the best way to grow is by building.
 
 ## Team
 
-### Owners & Software Engineers
-- Nícolas Machado Cardoso
-- Caio Matheus Queiroz
-
-### Platform Engineer
-- Wagner Araujo Bastos
-
-### Software Engineer
-- Marco Antonio Gava
+- Nícolas Machado Cardoso (Owner & Software Engineer)
+- Caio Matheus Queiroz (Owner & Software Engineer)
+- Wagner Araujo Bastos (Platform Engineer)
+- Marco Antonio Gava (Software Engineer)
 
 ## Current Mission
 
