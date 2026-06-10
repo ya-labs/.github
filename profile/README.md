@@ -1,43 +1,44 @@
 # YA LABS
 
-Building projects through learning, creativity and collaboration.
+Construindo projetos por meio de aprendizado, criatividade e colaboração.
 
-## About Us
+[LinkedIn da YA LABS](https://www.linkedin.com/company/ya-labs/)
 
-YA LABS is a shared workspace created by **Nícolas Machado Cardoso** and **Caio Matheus Queiroz**.
+## Sobre nós
 
-This organization was created to store and manage projects developed together — from study projects and experiments to real applications and production-ready ideas.
+A YA LABS é um espaço de trabalho compartilhado criado por Nícolas Machado Cardoso e Caio Matheus Queiroz.
 
-We believe the best way to grow is by building.
+Esta organização foi criada para armazenar e gerenciar projetos desenvolvidos em conjunto, desde estudos e experimentos até aplicações reais e ideias prontas para produção.
 
-## What You'll Find Here
+Acreditamos que a melhor forma de evoluir é construindo.
 
-- Web applications  
-- Mobile applications  
-- Study projects  
-- Experiments and prototypes  
-- Full-stack solutions  
-- Creative side projects  
+## O que você encontrará aqui
 
-## Our Mindset
+- Aplicações web
+- Aplicações mobile
+- Projetos de estudo
+- Experimentos e protótipos
+- Soluções full-stack
+- Projetos criativos paralelos
 
-- Learn by doing  
-- Build with quality  
-- Improve continuously  
-- Turn ideas into products  
+## Nossa mentalidade
 
-## Team
+- Aprender fazendo
+- Construir com qualidade
+- Melhorar continuamente
+- Transformar ideias em produtos
 
-- Nícolas Machado Cardoso (Owner & Software Engineer)
-- Caio Matheus Queiroz (Owner & Software Engineer)
-- Wagner Araujo Bastos (Platform Engineer)
-- Marco Antonio Gava (Software Engineer)
+## Time
 
-## Current Mission
+- Nícolas Machado Cardoso - Owner & Software Engineer
+- Caio Matheus Queiroz - Owner & Software Engineer
+- Wagner Araujo Bastos - Platform Engineer
+- Marco Antonio Gava - Software Engineer
 
-Creating useful, modern and well-built software while evolving as developers.
+## Missão atual
 
----
+Criar softwares úteis, modernos e bem construídos enquanto evoluímos como desenvolvedores.
 
-**YA LABS**  
-Projects built for learning, fun and production.
+## YA LABS
+
+Projetos construídos para aprendizado, diversão e produção.
